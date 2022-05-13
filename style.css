@@ -1,0 +1,43 @@
+body {
+	background-color: #132E32 ;
+	padding: 150px;
+
+}
+
+
+
+h1 {
+	color: #F3752B;
+	text-align: center;
+}
+
+
+
+.big-size {
+	width: 500px;
+	height: 500px;
+	object-fit: cover;
+}
+
+.small-size {
+	width: 30%;
+	height: 30%;
+	object-fit: cover;
+
+}
+
+.elements-center{
+	text-align: center;
+}
+
+div {
+	background-color: #ffffff;
+	padding-right: 50px;
+	padding-left: 50px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	border: 5px solid black;
+}
+
+display:flex; 
+justify-content : space-around; 
